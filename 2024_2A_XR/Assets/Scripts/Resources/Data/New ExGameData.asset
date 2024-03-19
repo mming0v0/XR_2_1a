@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0fe3b676515cc874ab1f8726ce40c006, type: 3}
   m_Name: New ExGameData
   m_EditorClassIdentifier: 
-  gameName: 
-  gameScore: 0
-  isGameActive: 0
+  gameName: "\uC0D8\uD50C\uAC8C\uC784"
+  gameScore: 100
+  isGameActive: 1
